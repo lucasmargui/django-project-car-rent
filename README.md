@@ -1,14 +1,17 @@
 <H1 align="center">Estrutura de Crud</H1>
 <p align="center">🚀 Projeto de criação de uma estrutura de crud em Django para referências futuras</p>
 
+# Projeto
+
+Este projeto será usado como referência em Django_Projeto_AluguelImoveis, alterando a lógica das views utilizando Class-based views.
+
+
 ## Recursos Utilizados
 
 * Django 5.0.2
 * Python 3.10
 
-# Projeto
 
-Este projeto será usado como referência em Django_Projeto_AluguelImoveis, alterando a lógica das views utilizando Class-based views.
 
 # Resultado
 

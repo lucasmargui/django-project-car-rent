@@ -11,19 +11,19 @@
         <div class="col-8">
             <div class="card">
                 
-                <!-- <img class="card-img-left example-card-img-responsive" src="{% static 'images/client.jpg' %}"/> -->
+               
                 <div class="card-body">
 
                     <div class="row" > 
                         <div class="col-6" >
                         
-                            <img  class="img-fluid"  src="{% static 'images/client.jpg' %}"/> 
+                            <img  class="img-fluid"  src="{% static 'images/client.png' %}"/> 
     
                         </div>
                         <div class="col-6">
 
                             <div class="row justify-content-center">
-                                <form   class="col-10" action="{% url 'client-create' %}"  >
+                                <form class="col-10" action="{% url 'client-create' %}"   method="post">
                                     {% csrf_token %}
                                     <h3>Cadastrar Cliente</h3>
                                     {% for field in form %}

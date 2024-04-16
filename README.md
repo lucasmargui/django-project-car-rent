@@ -1,5 +1,5 @@
 <H1 align="center">Django Crud</H1>
-<p align="center">🚀 Project to create a crud structure in Django for future reference</p>
+<p align="center">🚀 Project to create a crud structure in Django for future references</p>
 
 # Project
 
